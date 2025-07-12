@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Laiba Shahzad 
+- Certification: Front end developer professional certificate  
 
 ## Instructions
 Please replace the placeholders with your details:
